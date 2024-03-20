@@ -23,9 +23,9 @@ I'm a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### Connect with me:
 
-[<img align="left" alt="Sarazhiev | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" />][telegram]
-[<img align="left" alt="Daniel | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/128/355/355975.png" />][instagram]
-[<img align="left" alt="Daniel | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/128/3670/3670051.png" />][whatsapp]
+[<img align="left" target="_blank"  alt="Daniel | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" />][telegram]
+[<img align="left" target="_blank"  alt="Daniel | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/355/355975.png" />][instagram]
+[<img align="left" target="_blank"  alt="Daniel | WhatsApp" width="22px" src="https://cdn-icons-png.flaticon.com/128/3670/3670051.png" />][whatsapp]
 <br />
 
 ### Languages and Tools:
