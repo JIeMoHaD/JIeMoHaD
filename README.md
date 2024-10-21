@@ -42,7 +42,7 @@ I'm a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <br />
 <br />
 
-[telegram]: https://t.me/fullmetaldev9
+[telegram]: https://t.me/fulmetaldev
 [instagram]: https://www.instagram.com/_fullmetal_developer_?igsh=d291MW95b3YxZ21n
 [whatsapp]: https://wa.me/996556654081
 
